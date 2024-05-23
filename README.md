@@ -91,6 +91,10 @@ JavaScript Code (script.js)
 -> Adds click event listeners to number buttons, updating the output
 
 
+#Output
+
+![image](https://github.com/Laughing0004/Calculator/assets/166998108/d0ff2905-d0a2-45a4-8763-ce54a4e921cd)
+
 
 
 
