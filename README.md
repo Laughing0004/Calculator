@@ -1,19 +1,26 @@
 # Calculator
 The provided code creates a simple web-based calculator with HTML for structure, CSS for styling, and JavaScript for functionality. Here’s a step-by-step description of each part:
 
-HTML Code
+HTML Code 
+<br>
 
 1. DOCTYPE Declaration and HTML Setup:
+<br>
 ![image](https://github.com/Laughing0004/Calculator/assets/166998108/b24151c8-ed6f-4f78-9192-0125bb6df4e8)
+<br>
 -> Specifies the document type and language.
+<br>
 
-2. Head Section:
+3. Head Section:
+<br>
 ![image](https://github.com/Laughing0004/Calculator/assets/166998108/8d541c68-fc52-4e20-8e78-fc2f3b67ba69)
+<br>
 -> Includes a link to Google Fonts for styling the text.
 -> Sets the document title to "Simple Calculator".
 -> Links to an external CSS file (style.css) for styling.
 
-3. Body Section:
+<br>
+5. Body Section:
 ![image](https://github.com/Laughing0004/Calculator/assets/166998108/2eba2815-7c6c-4cee-83f0-d97641644b58)
 -> Creates a div with id="container" to center the calculator.
 -> Inside the container, another div with id="calculator" holds the calculator elements.
